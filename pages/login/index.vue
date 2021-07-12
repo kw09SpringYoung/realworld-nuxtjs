@@ -1,4 +1,4 @@
-<template lang="pug">
+<template>
     <div class="auth-page">
         <div class="container page">
             <div class="row">
