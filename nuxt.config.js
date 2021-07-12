@@ -62,10 +62,7 @@ module.exports = {
     ],
     css: [
         'element-ui/lib/theme-chalk/index.css'
-    ],
-    build: {
-        vendor: ['element-ui']
-    }
+    ]
     // server: {
     //     // host:'localhost', //只能本机访问
     //     host:'0,0,0,0', // 监听所有网卡地址，可以通过外网地址访问
