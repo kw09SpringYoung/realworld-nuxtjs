@@ -5,7 +5,8 @@ npm run dev
 npm run build
 
 npm run start
-本项目基于 nuxtjs 及下面内容创建。
+
+本项目基于 nuxtjs :
 
 GitHub仓库：https://github.com/gothinkster/realworld
 
