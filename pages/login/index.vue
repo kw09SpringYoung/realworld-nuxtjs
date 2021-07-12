@@ -51,8 +51,8 @@
             return {
                 user: {
                     username:'',
-                    email: '894584322@qq.com',
-                    password: 'dongke123!!'
+                    email: '',
+                    password: ''
                 },
                 errors:{} // 错误信息
             };

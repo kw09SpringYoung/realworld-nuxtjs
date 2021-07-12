@@ -3,7 +3,7 @@
         <!-- 顶部导航栏 -->
         <nav class="navbar navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="index.html">conduit</a>
+                <a class="navbar-brand" href="index.html">YCod云上前端</a>
                 <ul class="nav navbar-nav pull-xs-right">
                     <li class="nav-item">
                         <!-- Add "active" class when you're on that page" -->
